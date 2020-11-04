@@ -12,4 +12,4 @@
 
 # python2 emailbomber.py
 
-# Note:- https://myaccount.google.com/lesssecureapps( Attacker must enable less secure apps)
+# Note:- https://myaccount.google.com/lesssecureapps(Attacker must enable less secure apps)
